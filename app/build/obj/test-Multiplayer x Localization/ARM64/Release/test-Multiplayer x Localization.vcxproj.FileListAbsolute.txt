@@ -1,0 +1,24 @@
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\bin\ARM64\Release\resources.pri
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\bin\ARM64\Release\AppxManifest.xml
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\bin\ARM64\Release\test-Multiplayer x Localization.build.appxrecipe
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\test-Multiplayer x Localization.vcxproj.AssemblyReference.cache
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\test-Mul.55C2685D.Up2Date
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\ResourceHandlingTask.state
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\test-Multiplayer x Localization.vcxproj.GenerateResource.Cache
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\priconfig.xml
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\priconfig.xml.intermediate
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\unfiltered.layout.resfiles
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\unfiltered.layout.resfiles.intermediate
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\filtered.layout.resfiles
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\filtered.layout.resfiles.intermediate
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\excluded.layout.resfiles
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\excluded.layout.resfiles.intermediate
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\resources.resfiles
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\resources.resfiles.intermediate
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\pri.resfiles
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\pri.resfiles.intermediate
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\qualifiers.txt
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\qualifiers.txt.intermediate
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\ProjectArchitectures.txt
+D:\Tugas\Semester 4\Mixed Reality\Testing\Testing MR Project\app\build\obj\test-Multiplayer x Localization\ARM64\Release\.winmd_cache\$UnityPlayer.winmd_638969006900000000.json
